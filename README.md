@@ -4,7 +4,7 @@ I jsut fork GhostESP for creating a new version of hardware based on using ESP32
 https://github.com/MikeCodechief/cybersecurity-Ghost_ESP
 The new update for this repo will make it more closer to ESP Marauder 
 
-# LAN Network Scanner
+# LAN Network Scanner (lan_scanner.py)
 
 A Python-based network reconnaissance tool for discovering and analyzing devices on Local Area Networks (LANs). This tool is designed for cybersecurity professionals, network administrators, and penetration testers to perform network discovery and basic host enumeration.
 
@@ -183,7 +183,7 @@ git push origin feature/your-feature-name
 
 `cybersecurity` `network-scanning` `penetration-testing` `reconnaissance` `python` `security-tools` `network-discovery` `ethical-hacking`
 
-# Integrated Network Reconnaissance Tool
+# Integrated Network Reconnaissance Tool (integrated_scanner.py)
 
 Advanced multi-tool network scanner combining NMAP, Wireshark, SNMP, and system utilities for comprehensive security assessment.
 
